@@ -199,6 +199,14 @@ footer p {
     margin-bottom: 20px;
 }
 @media screen and (min-width:600px) {
+    .btn-dark {
+    background-color: #111;
+    color: #fff;
+    float: left;
+    padding: 0 30px;
+    width: auto;
+}
+
     .nav-ul {
         display: block;
     }
@@ -214,6 +222,14 @@ footer p {
     }
 }
 @media screen and (min-width:1024px) {
+    .btn-dark {
+    background-color: #111;
+    color: #fff;
+    float: left;
+    padding: 0 30px;
+    width: auto;
+}
+
     .nav-ul {
         display: block;
     }
