@@ -145,8 +145,8 @@ section.projects {
     background-color: #111;
     color: #fff;
     float: left;
-    padding: 0 30px;
-    width: auto;
+    /* padding: 0 30px; */
+    width: 100%;
 }
 .btn-light:hover {
     background-color: #b5b5b5;
